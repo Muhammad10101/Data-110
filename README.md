@@ -10,5 +10,11 @@ Rpubs Link: https://rpubs.com/Muhammad_234/1415901
 
 Rpubs Link: https://rpubs.com/Muhammad_234/1424669 
 
+## Assignment 1
+
+cd
+
+git add
+git add <Assignment+1.pdf>
 
 
